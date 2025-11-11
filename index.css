@@ -1,5 +1,5 @@
 body {
-    margin: 0 auto;
+    margin: 20px auto;
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
     max-width: 302px;
@@ -12,11 +12,14 @@ input {
     border: 1px solid #5f9341;
     margin-bottom: 4px;
     margin-top: 4px;
+    font-size: 16px;
+    color:#5f9341;
 }
 
 label {
     color:#5f9341;
     font-weight: 900;
+    font-size: 18px;
 }
 
 button {
@@ -25,6 +28,7 @@ button {
     padding: 10px 20px;
     border: 1px solid #5f9341;
     font-weight: bold;
+    font-size: 16px;
 }
 
 #delete-btn {
